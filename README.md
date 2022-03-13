@@ -1,2 +1,2 @@
 # weather_flutter
- A fltter App which consumes web API to display live weather
+ A flutter App which consumes web API to display live weather
